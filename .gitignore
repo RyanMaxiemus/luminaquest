@@ -1,0 +1,15 @@
+# Environments
+venv/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Game Saves
+saves/*.json
+
+# OS-specific
+.DS_Store
+Thumbs.db
